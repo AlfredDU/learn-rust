@@ -1,8 +1,6 @@
-//! Read arguments from shell
+//! read arguments from shell
 
-// declare modules
-
-// imports
+/** imports */
 use std::env;
 use std::collections::HashMap;
 
