@@ -9,6 +9,7 @@ mod enumeration;
 mod multidimensional_array;
 mod operator_override;
 mod read_textfile;
+mod write_textfile;
 
 
 /// main method
@@ -19,5 +20,6 @@ fn main() {
     // enumeration::main();
     // multidimensional_array::main();
     // operator_override::main();
-    read_textfile::main();
+    // read_textfile::main();
+    write_textfile::main();
 }
